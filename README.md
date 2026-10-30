@@ -26,8 +26,7 @@ public class AntonioNeto {
 
     String[] frontEnd  = { "HTML5", "CSS3", "JavaScript", "React", "TailwindCSS" };
     String[] backEnd   = { "Java", "Spring Boot", "Node.js", "Python" };
-    String[] devOps    = { "Docker", "Git", "GitHub" };
-    String[] ia        = { "Claude", "Ferramentas de IA generativa" };
+    String[] ferramentas    = { "Docker", "Git", "GitHub", "IA generativa" };
 
     String filosofia() {
         return "Aprender na prática, construindo projetos próprios.";
