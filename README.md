@@ -1,36 +1,95 @@
-## 👋 Olá, eu sou o Antônio Neto
+<div align="center">
 
-🎓 Estudante de **Engenharia de Software na FIAP**  
-🚀 Buscando meu **primeiro estágio em desenvolvimento**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ant%C3%B4nio+Neto+%F0%9F%91%8B;Engenharia+de+Software+%40+FIAP;Desenvolvedor+Web+Full+Stack;Em+busca+do+primeiro+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" />
 
-💻 Foco em **desenvolvimento web** (front-end e back-end), sempre aprendendo na prática e criando projetos próprios.
+<br/>
 
----
+<a href="https://portifolio-kappa-dun.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/antonio-neto-2231b7357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AntonioNeto18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 🛠️ Tecnologias
+<img src="https://komarev.com/ghpvc/?username=AntonioNeto18&color=0ea5e9&style=flat-square&label=visitas" alt="visitas" />
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 🔗 Links
+### 🧑‍💻 `whoami`
 
-🌐 Portfólio: https://portifolio-kappa-dun.vercel.app/  
-💼 LinkedIn: https://www.linkedin.com/in/antonio-neto-2231b7357/  
-🐙 GitHub: https://github.com/AntonioNeto18  
+```java
+public class AntonioNeto {
+
+    String curso       = "Engenharia de Software";
+    String faculdade   = "FIAP";
+    String foco        = "Desenvolvimento Web (Front-end + Back-end)";
+    String objetivo    = "Conquistar meu primeiro estágio em desenvolvimento";
+
+    String[] frontEnd  = { "HTML5", "CSS3", "JavaScript", "React", "TailwindCSS" };
+    String[] backEnd   = { "Java", "Spring Boot", "Node.js", "Python" };
+    String[] devOps    = { "Docker", "Git", "GitHub" };
+    String[] ia        = { "Claude", "Ferramentas de IA generativa" };
+
+    String filosofia() {
+        return "Aprender na prática, construindo projetos próprios.";
+    }
+}
+```
 
 ---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><b>Ferramentas & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /></td>
+  </tr>
+</table>
+
+<div align="center">
+
+**🤖 IA no meu fluxo de trabalho**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/IA_Generativa-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AntonioNeto18&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+</div>
+
+---
+
+### 🚀 No momento
+
+- 🔭 Construindo projetos full stack com **React + Spring Boot**
+- 🌱 Aprofundando em **APIs REST, bancos de dados e boas práticas**
+- 💼 **Aberto a oportunidades de estágio** — bora conversar!
+
+---
+
+<div align="center">
+
+```bash
+$ git commit -m "sempre aprendendo, sempre construindo 🚀"
+```
+
+</div>
