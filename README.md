@@ -19,16 +19,16 @@
 ```java
 public class AntonioNeto {
 
-    String curso       = "Engenharia de Software";
-    String faculdade   = "FIAP";
-    String foco        = "Desenvolvimento Web (Front-end + Back-end)";
-    String objetivo    = "Conquistar meu primeiro estágio em desenvolvimento";
+    private String curso       = "Engenharia de Software";
+    private String faculdade   = "FIAP";
+    private String foco        = "Desenvolvimento Web (Front-end + Back-end)";
+    private String objetivo    = "Conquistar meu primeiro estágio em desenvolvimento";
 
-    String[] frontEnd  = { "HTML5", "CSS3", "JavaScript", "React", "TailwindCSS" };
-    String[] backEnd   = { "Java", "Spring Boot", "Node.js", "Python" };
-    String[] ferramentas    = { "Docker", "Git", "GitHub", "IA generativa" };
+    private String[] frontEnd  = { "HTML5", "CSS3", "JavaScript", "React", "TailwindCSS" };
+    private String[] backEnd   = { "Java", "Spring Boot", "Node.js", "Python" };
+    private String[] ferramentas    = { "Docker", "Git", "GitHub", "IA generativa" };
 
-    String filosofia() {
+    public String filosofia() {
         return "Aprender na prática, construindo projetos próprios.";
     }
 }
